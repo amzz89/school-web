@@ -1,2 +1,6 @@
 .marquee{background-color: aqua;
 color: chocolate;}
+h2{
+	text-align: center;
+	margin-top: 50px;
+}
