@@ -1,6 +1,29 @@
 .marquee{background-color: aqua;
-color: chocolate;}
+color: chocolate;
+}
 h2{
 	text-align: center;
 	margin-top: 50px;
+
+}
+.campus img{
+	height:200px;
+}
+.campus p{
+	text-align: center;
+}
+.achievements
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+.schoolimg img{
+	width: 80%;
+}
+.margin{
+	margin-top: 100px;
 }
